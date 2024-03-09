@@ -16,7 +16,7 @@
 
 💬 Ask me about *Node.js,Express.js, React, MongoDB*
 
-⚡ Fun fact *I like Basketball and Workout*
+⚡ Fun fact *I like Chess and Workout*
 
  </div>
  
