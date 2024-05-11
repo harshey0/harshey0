@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on *Android dev*
+ 🔭 I’m currently working on *ML AI*
  
- 🌱 I’m currently learning *Spring boot, Socket.io, SQL*
+ 🌱 I’ve recently learned *Socket.io, WebRTC, Firebase*
 
 💬 Ask me about *Node.js,Express.js, React, MongoDB*
 
