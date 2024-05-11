@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on *ML AI*
+ 🔭 I’m currently working on *ML & AI*
  
  🌱 I’ve recently learned *Socket.io, WebRTC, Firebase*
 
